@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,oBACE,iBAAkB","file":"main.33a8f73c.chunk.css","sourcesContent":["// not empty\nli:not(:last-child) {\n  margin-right: 20px;\n}\n"]}
